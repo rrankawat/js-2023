@@ -67,3 +67,31 @@
 // }, {})
 
 // console.log(res)
+
+// ------------- EXAMPLE 5 -------------
+
+// const people = [
+//   { name: 'Tanya', age: 26 },
+//   { name: 'Edward', age: 31 },
+//   { name: 'Karen', age: 31 },
+//   { name: 'May', age: 31 },
+//   { name: 'Zeon', age: 42 },
+//   { name: 'Suffire', age: 42 },
+// ]
+
+// people.sort((a, b) => {
+//   let fa = a.name.toLowerCase()
+//   let fb = b.name.toLowerCase()
+
+//   if (fa < fb) {
+//     return -1
+//   }
+
+//   if (fa > fb) {
+//     return 1
+//   }
+
+//   return 0
+// })
+
+// console.log(people)
